@@ -1,0 +1,18 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-48.40313315,-1.383960356]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"ANANINDEUA","ESTADO":"PA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-47.45204692,-5.562655522]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"IMPERATRIZ","ESTADO":"MA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-55.99992663,-4.254386733]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"ITAITUBA","ESTADO":"PA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-51.10109013,0.089451552]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"MACAPA","ESTADO":"AP"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-60.01950185,-3.046476828]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"MANAUS","ESTADO":"AM"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-48.31469979,-10.24877925]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"PALMAS","ESTADO":"TO"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-49.90481625,-6.083913236]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"PARAUAPEBAS","ESTADO":"PA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.24704832,-2.604080546]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"S�O LUIS","ESTADO":"MA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-48.40313315,-1.383960356]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"ANANINDEUA","ESTADO":"PA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-47.45204692,-5.562655522]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"IMPERATRIZ","ESTADO":"MA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-55.99992663,-4.254386733]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"ITAITUBA","ESTADO":"PA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-51.10109013,0.089451552]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"MACAPA","ESTADO":"AP"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-60.01950185,-3.046476828]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"MANAUS","ESTADO":"AM"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-48.31469979,-10.24877925]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"PALMAS","ESTADO":"TO"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-49.90481625,-6.083913236]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"PARAUAPEBAS","ESTADO":"PA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.24704832,-2.604080546]},"properties":{"CONCESSION�RIA":"DELTAMAQ","CIDADE":"S�O LUIS","ESTADO":"MA"}}
+]}
